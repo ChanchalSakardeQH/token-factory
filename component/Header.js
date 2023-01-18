@@ -58,7 +58,7 @@ function Header() {
       <Navbar variant="static">
         <Navbar.Brand>
           <Avatar
-            src="https://docs.shardeum.org/img/shardeum-logo-dark.png"
+            src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1492068143/nxnn8iectvfjrmjj9so2.png"
             css={{ size: "$15", mr: 12 }}
           />
         </Navbar.Brand>
