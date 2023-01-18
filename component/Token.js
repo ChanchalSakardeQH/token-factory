@@ -63,7 +63,7 @@ function Token({ tokenAddress }) {
         <Card.Body>
           <Container xs display="flex" direction="column" css={{ p: 0 }}>
             <Avatar
-              src="https://docs.shardeum.org/img/shardeum-logo-dark.png"
+              src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1492068143/nxnn8iectvfjrmjj9so2.png"
               css={{ size: "$20", mx: "auto" }}
             />
             <Spacer y={0.5} />
