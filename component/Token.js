@@ -59,7 +59,7 @@ function Token({ tokenAddress }) {
 
   return (
     <>
-      <Card css={{ w: 30% }}>
+      <Card css={{ w: 31% }}>
         <Card.Body>
           <Container xs display="flex" direction="column" css={{ p: 0 }}>
             <Avatar
